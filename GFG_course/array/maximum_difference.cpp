@@ -15,6 +15,7 @@ void maximumDifference(int arr[],int n){
 int main(){
     int arr[]={2,3,10,6,4,8,1};
     maximumDifference(arr,7);
+//
 
 return 0;
 }
